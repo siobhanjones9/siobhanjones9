@@ -1,5 +1,6 @@
 ### Hey 👋🏼 I'm Siobhan, but call me Shiv! 👩🏻‍💻⚽
 
+![blue emoji saying site under contruction](https://img.freepik.com/premium-vector/illustration-ice-cube-with-construction-banner-cute-design_152558-22496.jpg)
 
 <!--
 **siobhanjones9/siobhanjones9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
